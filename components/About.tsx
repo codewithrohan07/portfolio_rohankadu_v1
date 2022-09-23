@@ -33,10 +33,9 @@ export default function About({}: Props) {
           background
         </h4>
         <p className="text-base">
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nulla
-          aperiam quos dolorum laboriosam impedit. Consectetur iste aliquam esse
-          quos exercitationem commodi, aut earum quasi animi nisi quaerat,
-          reprehenderit consequatur eaque!
+          I'm a full stack developer with knowledge in a lot of different
+          technologies. If I don't know something I always try to wrap my head
+          around it quickly.
         </p>
       </div>
     </motion.div>
